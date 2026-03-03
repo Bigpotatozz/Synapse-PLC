@@ -1,0 +1,15 @@
+{
+  "name": "plc-connection-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "Keyenece_tcp_script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "st-ethernet-ip": "^2.7.5"
+  }
+}
